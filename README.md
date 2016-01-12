@@ -45,6 +45,7 @@
   <li>Users searchable by user name.</li>
 </ol>
 
-
-Users have a First and Last name
-Teams have a Name and Users
+<ul>
+  <li>Users have a First and Last name</li>
+  <li>Teams have a Name and Users</li>
+</ul>
