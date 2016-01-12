@@ -9,7 +9,7 @@
   <li>Written in AngularJS</li>
   <li>Library management tool (i.e. NPM/Bower)</li>
   <li>Demonstrate use of at least 1 factory or service, and 1 directive</li>
-  <li>Include at least 1 unit test utilizing a unit test framework such as Jasmine</li>
+  <li>One unit test that verifies sorting of team names, utilizing a unit test framework such as Jasmine</li>
   <li>Include a readme.md file with instructions on how to run the web application</li>
   <li>Submit a pull request of this repository when you are complete</li>
 </ol>
