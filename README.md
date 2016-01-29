@@ -27,7 +27,7 @@
       <li>Intuitive/friendly user interface
     </ul>
   </li>
-  <li>Build generators (yo) are encouraged, and can <b>dramatically</b> reduce the time to get your project going</li>
+  <li>Build generators (i.e. yo) are encouraged, and can <b>dramatically</b> reduce the time to get your project going</li>
 </ul>
 
 <h3>Objective:</h3>
