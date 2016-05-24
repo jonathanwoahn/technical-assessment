@@ -19,7 +19,7 @@
   <li>Use whatever libraries you can to expedite development</li>
   <li>Use a bundling tool such as Gulp, Grunt or Webpack</li>
   <li>Server not required, this can all be done client side</li>
-  <li>The readme.md file should include your name, as well as the exact steps to get your application running. We shouldn't need to finagle your code to get things working, the isntructions should be exact</li>
+  <li>The readme.md file should include your name, as well as the exact steps to get your application running. We shouldn't need to finagle your code to get things working; the instructions should be exact</li>
   <li>Some additional things we will be looking at besides the requirements stated above are (in order of importance): 
     <ul>
       <li>Code quality</li>
