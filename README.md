@@ -2,7 +2,7 @@
 
 <h1>AngularJS/Unit Test Task</h1>
 
-<p>Thank you for taking the time to work on this assessment! We recognize that your time is valuable, and as such, we are prepared to <strong>compensate you for up to 2 hours</strong> of your normal consulting rate upon completion of this task (send your name/rate in an email to jonathan@catalant.co prior to commencing this assessment as a heads up). We anticipate that this simple task should take the type of partner we are looking for no longer than 1-2 hours to complete, however you are welcome to take as long as it takes to deliver a product that you believe is indicative of your skills.</p>
+<p>Thank you for taking the time to work on this assessment! We recognize that your time is valuable, and as such, we are prepared to <strong>compensate you for up to 2 hours</strong> of your normal consulting rate upon completion of this task if you so desire (send your name/rate in an email to jonathan@catalant.co prior to commencing this assessment as a heads up). We anticipate that this simple task should take the type of partner we are looking for no longer than 1-2 hours to complete, however you are welcome to take as long as it takes to deliver a product that you believe is indicative of your skills.</p>
 
 <h3>Technical Assessment Requirements:</h3>
 <ol>
